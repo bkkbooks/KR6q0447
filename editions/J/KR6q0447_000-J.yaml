@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6q0447/j/v1/juan/0
 seq: 0
-front:
+body:
   text: 月幢了禪師語錄序菩提達磨航海過東早已帶水拖泥無端面壁惹得神光斷臂求安信然剜肉作瘡好事者謂之傳佛心印孰知禍我震旦非淺鮮也由是冤冤相酬六傳至曹溪符一花五葉之懸記首以南嶽懷讓流通正眼禍胎彌固從可知矣三十四傳至天童悟逞轟雷掣電之機棒喝交馳時以為古今希遘以為人天大患又一見也悟出破山明明出丈雪醉醉出幢師一時濟美非聞知於隔世者可同日語唯師渾身毒氣黑地昏天倒歷祖窠臼斷諸方命根驀與棒熱與喝驅馳龍象直指風規盡喪於無面孔老漢手裏宜乎窟中獅子之讖振起雞足迦葉之風一日獲師語錄未展卷時余擬為塗抹太虛恐見異於木人及讀之不禁白汗如霰倏焉中毒伸腳無畏床上作驢年夢也但涉見聞失命喪身凡具鼻孔者珍重聲前句子免累吾師舌頭拖地姑蘇寒山弟子徐士煒薰沐書月幢了禪師語錄目次卷一上堂卷二小參廣錄入室機緣勘驗機緣問答機緣法語行實卷三頌古分燈書問諸讚卷四偈歌目錄終
   hash: sha256:f8ea67f94ccb1c8a6d52f70a32fc7d2ab481fbcaee9d168ef17bcd696d1ac2c7
   markers:
   - {type: 序, offset: 0, content: 序, id: KR6q0447_J_000-mulu-1, level: '1'}
   - {type: 其他, offset: 307, content: 目次, id: KR6q0447_J_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 月幢了禪師語錄
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/J/J29/J29nB237.xml
     old_id: J29nB237
-hash: sha256:371282226d26fd8d078bb4368250c5eb14f974b2dd6bc9f3f9397f1e9beb90a5
+hash: sha256:a0610d5e1579c26420d2a4192cd6ac7a122abc3d3746b0e2fb06b217c3fce1fe
